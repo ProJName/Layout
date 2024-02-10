@@ -1,0 +1,32 @@
+[
+  {
+    "id_product": 111,
+    "product_name": "ELLERY X M'O CAPSULE",
+    "price": 52
+  },
+  {
+    "id_product": 222,
+    "product_name": "ELLERY ",
+    "price": 3000
+  },
+  {
+    "id_product": 333,
+    "product_name": "ELLERY",
+    "price": 80
+  },
+  {
+    "id_product": 444,
+    "product_name": "ELLERYE",
+    "price": 100
+  },
+  {
+    "id_product": 555,
+    "product_name": "ELE",
+    "price": 54
+  },
+  {
+    "id_product": 666,
+    "product_name": "EL",
+    "price": 52
+  }
+]
